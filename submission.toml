@@ -1,0 +1,3 @@
+assignment = "A02"
+members = []
+record = ""   # the CVE ID, which is also the record directory, e.g. "CVE-2023-12345"
